@@ -1,0 +1,24 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+    
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awnasworthy/jest-another-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awnasworthy/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/awnasworthy/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
